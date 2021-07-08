@@ -1,0 +1,36 @@
+html{
+  font-size: 20px;
+  background-color: #E5DDFC
+}
+
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+li{
+  padding: 10px 0;
+}
+#image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px; 
+}
+#img-caption{
+  margin-left:110px;
+}
+#title{
+  font-size: 60px;
+}
+#headline{
+  font-size: 30px;
+}
+footer{
+  font-weight: 300;
+  display:flex;
+  justify-content: center;
+  padding: 20px;
+  border-top: 4px solid black;
+}
